@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="debug1">#ff0000</color>
+    <color name="debug2">#00ff00</color>
+    <color name="white">#ffffff</color>
+    <color name="white_pressed">#e5e5e5</color>
+    <color name="black">#000000</color>
+    <color name="blue">#5d9cec</color>
+    <color name="green">#03a170</color>
+    <color name="dark_blue">#004AC4</color>
+    <color name="light_blue">#29B5FF</color>
+    <color name="tab_green">#019364</color>
+    <color name="default_green">#56d1a8</color>
+    <color name="default_blue">#006FDA</color>
+    <color name="default_red">#ff502d</color>
+    <color name="tab_blue">#0083FF</color>
+
+    <color name="light_green">#a1d36e</color>
+    <color name="bg_invite_text">#f4f4f4</color>
+    <color name="dark_grey">#525252</color>
+    <color name="grey">#808080</color>
+    <color name="orange">#FF8242</color>
+    <color name="light_grey">#a5a5a5</color>
+    <color name="red">#fc6e51</color>
+    <color name="background">#eaeaea</color>
+    <color name="background_tab">#f9f9f9</color>
+    <color name="background_news">#f2f2f2</color>
+    <color name="background_time">#fafafa</color>
+    <color name="divider">#d6d6d5</color>
+    <color name="divider2">#9ae3cb</color>
+    <color name="log_divider_tab_selector">#FF0000</color>
+    <color name="divider_tab_selector">#a1d36e</color>
+    <color name="divider_tab_selector_coupon">#f38b4c</color>
+    <color name="text_default">@color/text_size_normal</color>
+    <color name="text_size_xlarge">#202020</color>
+    <color name="text_size_large">@color/dark_grey</color>
+    <color name="text_size_normal">@color/dark_grey</color>
+    <color name="text_size_minor">@color/grey</color>
+    <color name="text_color_emr">#bbbbbb</color>
+    <color name="text_size_small">@color/light_grey</color>
+    <drawable name="transparent">#00000000</drawable>
+    <drawable name="black1">#66000000</drawable>
+    <color name="light_gray">#CCCCCC</color>
+    <!-- 图文咨询 -->
+    <color name="bg_color_gray">#eaeaea</color>
+    <color name="bt_color_green">#69B848</color>
+    <color name="bt_time_color_green">#56d1a8</color>
+    <color name="bt_color_red">#FF6244</color>
+    <color name="status_wait">#FFB900</color>
+    <color name="status_cancel">#999999</color>
+    <!-- Zxing -->
+    <color name="contents_text">#ff000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="help_button_view">#ffcccccc</color>
+    <color name="help_view">#ff404040</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_image_border">#ffffffff</color>
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c000ff00</color>
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="sbc_header_text">#ff808080</color>
+    <color name="sbc_header_view">#ffffffff</color>
+    <color name="sbc_list_item">#fffff0e0</color>
+    <color name="sbc_layout_view">#ffffffff</color>
+    <color name="sbc_page_number_text">#ff000000</color>
+    <color name="sbc_snippet_text">#ff4b4b4b</color>
+    <color name="share_text">#ff000000</color>
+    <color name="share_view">#ffffffff</color>
+    <color name="status_view">#50000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="coupon_text">#f38b4c</color>
+    <!--slidingmenu-->
+    <color name="slidingmenu_bg">#3c4042</color>
+    <color name="slidingmenu_bg_pressed">#323537</color>
+    <color name="slidingmenu_divider">#4b4f51</color>
+    <color name="slidingmenu_text">#7f8182</color>
+    <color name="text_tab1_minor">#cff2e6</color>
+
+    <color name="bg_doctorimage">#d8f3ea</color>
+
+
+    <!-- Background color for light CardView. -->
+    <color name="cardview_light_background">@color/white</color>
+    <!-- Background color for dark CardView. -->
+    <color name="cardview_dark_background">#FF202020</color>
+    <!-- Shadow color for the first pixels around CardView. -->
+    <color name="cardview_shadow_start_color">#37000000</color>
+    <!-- Shadow color for the furthest pixels around CardView. -->
+    <color name="cardview_shadow_end_color">#03000000</color>
+</resources>
